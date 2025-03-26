@@ -1,2 +1,2 @@
-# NYC_TAXI_SHRIKANTM
-NY TAXI EDA
+# NYC TAXI EDA
+Steps Involved:  Data Cleanup | Imputation | EDA | Visualization
